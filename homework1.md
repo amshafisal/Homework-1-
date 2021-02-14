@@ -22,6 +22,10 @@ library(ggrepel)
 
 (4 points)
 
+\#Answer Exercise2
+
+\`2. 7 variables
+
 (4 points)
 
 Write your narrative below

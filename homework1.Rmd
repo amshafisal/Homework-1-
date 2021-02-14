@@ -31,7 +31,9 @@ library(ggrepel)
 ```{r}
 
 ```
+#Answer Exercise2
 
+`2. 7 variables
 
 (4 points)
 
