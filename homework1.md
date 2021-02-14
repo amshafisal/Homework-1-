@@ -35,11 +35,11 @@ seattlepets%&gt;%count(species, sort = TRUE)
 
 (4 points)
 
-Write your narrative here
-
-\`4.
-
-(10 points)
+\#Answe Exe4 Top 5 names for Dog Lucy  
+Charlie  
+Bella  
+Luna  
+Daisy Top 5 names for Cats NA Luna Lucy Lily Max (10 points)
 
 \`5. What names are more common for cats than dogs? The ones above the
 line or the ones below the line?

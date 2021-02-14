@@ -53,12 +53,19 @@ seattlepets%>%count(species, sort = TRUE)
 ```{r}
 
 ```
-Write your narrative here
-
-
-
-`4.
-
+#Answe Exe4
+Top 5 names for Dog
+Lucy        
+Charlie       
+Bella         
+Luna          
+Daisy
+Top 5 names for Cats
+NA
+Luna
+Lucy
+Lily
+Max
 (10 points)
 
 ```{r species-name-top5, eval=TRUE}
