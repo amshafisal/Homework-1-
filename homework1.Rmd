@@ -71,10 +71,23 @@ Max
 ```{r species-name-top5, eval=TRUE}
 
 ```
-
+#ANSWER Exe5
 `5.  What names are more common for cats than dogs? The ones above the line or the ones below the line?
 
-Answer here
+lily
+milo
+charli
+bella
+luna
+lala
+stella
+max
+molly
+maggie
+jack
+henry
+pepper
+
 
 (4 points)
 

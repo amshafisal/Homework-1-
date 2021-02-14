@@ -41,10 +41,11 @@ Bella
 Luna  
 Daisy Top 5 names for Cats NA Luna Lucy Lily Max (10 points)
 
-\`5. What names are more common for cats than dogs? The ones above the
-line or the ones below the line?
+\#ANSWER Exe5 \`5. What names are more common for cats than dogs? The
+ones above the line or the ones below the line?
 
-Answer here
+lily milo charli bella luna lala stella max molly maggie jack henry
+pepper
 
 (4 points)
 
