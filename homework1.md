@@ -53,6 +53,6 @@ pepper
 with a given name and proportion of dogs with a given name) positive or
 negative? What does this mean in context of the data?
 
-Answer here
+positive, whenever increased name for dogs. increased name cat
 
 (4 points)
