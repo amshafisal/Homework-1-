@@ -40,10 +40,13 @@ library(ggrepel)
 ```{r}
 
 ```
-Write your narrative below
+#Answer Exercise3
+1-Dog
+2-Cat
+3-Goat
 
-
-`3. Copy the code provided in the homework documentation and paste it here. 
+`3.seattlepets%>%count(animal_name, sort = TRUE)
+seattlepets%>%count(species, sort = TRUE)
 
 (4 points)
 

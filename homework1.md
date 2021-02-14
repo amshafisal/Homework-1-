@@ -28,10 +28,10 @@ library(ggrepel)
 
 (4 points)
 
-Write your narrative below
+\#Answer Exercise3 1-Dog 2-Cat 3-Goat
 
-\`3. Copy the code provided in the homework documentation and paste it
-here.
+\`3.seattlepets%&gt;%count(animal\_name, sort = TRUE)
+seattlepets%&gt;%count(species, sort = TRUE)
 
 (4 points)
 
